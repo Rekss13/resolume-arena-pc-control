@@ -15,7 +15,7 @@ node.js, git, node-windows
 
 ```npm install -g node-windows@0.1.14```
 
-## Установка службы в качестве службы Windows
+## Установка в качестве службы Windows
 
 Скачать проект
 
