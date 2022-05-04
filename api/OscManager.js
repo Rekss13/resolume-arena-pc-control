@@ -55,6 +55,7 @@ class OscManager {
             address: "/composition/columns/4/connect",
             args: [{ type: "i", value: 1 }]
         });
+        setTimeout(() => this.enableScene1(() => { }), (5 * 60 + 49) * 1000);
     }
 
     enableScene5(callback) {
