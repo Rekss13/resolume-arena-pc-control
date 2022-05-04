@@ -5,12 +5,12 @@ const pkg = require('./package.json');
 var svc = new Service({
   name: pkg.name,
   description: `Resolume control`,
-  script: 'c:\\resalum-pc-control\\index.js',
+  script: 'c:\\resolume-arena-pc-control\\index.js',
   nodeOptions: [
     '--harmony',
     '--max_old_space_size=4096'
   ]
-  , workingDirectory: 'c:\\resalum-pc-control\\'
+  , workingDirectory: 'c:\\resolume-arena-pc-control\\'
   //, allowServiceLogon: true
 });
 
