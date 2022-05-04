@@ -15,7 +15,7 @@ node.js, git, node-windows
 
 ```npm install -g node-windows@0.1.14```
 
-## Установка службы
+## Установка службы в качестве службы Windows
 
 Скачать проект
 
@@ -47,7 +47,7 @@ node.js, git, node-windows
 
 ```node deleteSevice.js```
 
-## Отключение ПК на ОС Windows по сети
+## Управление ПК и программой Resolume Arena
 
 Для отключения ПК отправить GET запрос
 
