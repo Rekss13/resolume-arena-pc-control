@@ -35,7 +35,7 @@ node.js, git, node-windows
 
 Отредактировать пути в файле startService.js
 
-Добавить службу для отключения виндовс
+Добавить службу для отключения ПК
 
 ```node startService.js```
 
